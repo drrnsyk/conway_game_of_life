@@ -1,4 +1,4 @@
-package vttp2022.conwayGoL;
+package vttp2022.conwaygol;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

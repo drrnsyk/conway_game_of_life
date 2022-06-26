@@ -1,4 +1,4 @@
-package vttp2022.conwayGoL;
+package vttp2022.conwaygol;
 
 public class Conway {
     
